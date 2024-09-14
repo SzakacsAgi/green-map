@@ -1,0 +1,128 @@
+{
+  "translation": {
+    "menuPoints": {
+      "mobile": {
+        "home": "Kezdőlap",
+        "administration": "Admin",
+        "map": "Térkép",
+        "profile": "Profil"
+      },
+      "desktop": {
+        "dashboard": "Vezérlőpult",
+        "administration": "Adminisztráció",
+        "map": "Térkép",
+        "logout": "Kijelentkezés",
+        "profile": "Profil"
+      }
+    },
+    "administration": {
+      "searchFor": "Keresés...",
+      "noSearchResult": "Nincs keresési találat",
+      "noData": "Nincs elérhető adat"
+    },
+    "dashboard": {
+      "pois": "Poi-k"
+    },
+    "pageNotFound": {
+      "notFound": "Az oldal nem található",
+      "backText": "Vissza a weboldalra"
+    },
+    "login": {
+      "welcomeText": "Üdvözlünk újra!",
+      "loginAction": "Bejelentkezés",
+      "forgotPassword": "Elfelejtette a jelszavát?",
+      "navigateToRegistration": "Nincs még fiókja?"
+    },
+    "registration": {
+      "registrationText": "Hozd létre a fiókod",
+      "registrationAction": "Regisztráció",
+      "navigateToLogin": "Már van fiókja?",
+      "minCharacter": "Legalább 8 karakter",
+      "lowerCaseRule": "Legalább 1 kisbetű",
+      "upperCaseRule": "Legalább 1 nagybetű",
+      "specialCharacterRule": "Legalább 1 speciális karakter",
+      "numberRule": "Legalább egy szám"
+    },
+    "profile": {
+      "settings": "Beállítások",
+      "language": "Nyelv",
+      "theme": "Téma",
+      "hun": "Magyar",
+      "eng": "Angol",
+      "name": "Név"
+    },
+    "forgotPassword": {
+      "requestEmailAddress": "Add meg az email-címed",
+      "requestNewPassword": "Add meg a jelszavad",
+      "returnToLogin": "Vissza a főoldalra",
+      "reset": "Visszaállítás"
+    },
+    "inputLabels": {
+      "firstName": "Keresztnév",
+      "lastName": "Vezetéknév",
+      "email": "E-mail",
+      "password": "Jelszó",
+      "confirmPassword": "Jelszó megerősítése",
+      "category": "Kategória",
+      "longitude": "Hosszúság",
+      "latitude": "Szélesség",
+      "address": "Cím",
+      "description": "Leírás",
+      "name": "Név",
+      "openingHours": "Nyitvatartás",
+      "phoneNumber": "Telefonszám",
+      "subcategory": "Alkategória",
+      "url": "URL"
+    },
+    "errors": {
+      "emptyEmailField": "Az e-mail mezőt kötelező kitölteni!",
+      "invalidEmailFormat": "Érvénytelen e-mail cím. Pontosan egy '@' jelet és legalább egy pontot kell tartalmaznia",
+      "emptyPasswordField": "A jelszó mezőt kötelező kitölteni!",
+      "emptyFirstNameField": "A keresztnév mezőt kötelező kitölteni!",
+      "emptyLastNameField": "A vezetéknév mezőt kötelező kitölteni!",
+      "passwordMissMatch": "A jelszavak nem egyeznek",
+      "emptyAddressField": "A címet kötelező megadni!",
+      "emptyCategoryField": "A kategória mezőt kötelező kitölteni!",
+      "emptyDescriptionField": "A leírást kötelező megadni!",
+      "emptyLatitudeField": "A szélesség mezőt kötelező kitölteni!",
+      "invalidLatitude": "A szélesség csak szám lehet",
+      "emptyLongitudeField": "A hosszúság mezőt kötelező kitölteni!",
+      "invalidLongitude": "A hosszúság csak szám lehet",
+      "emptyPoiNameField": "A név mezőt kötelező kitölteni!",
+      "emptyOpeningTimeField": "A nyitvatartási idő kezdetét kötelező kitölteni!",
+      "emptyClosingTimeField": "A nyitvatartási idő végét kötelező kitölteni!",
+      "emptyPhoneNumberField": "A telefonszám mezőt kötelező kitölteni!",
+      "invalidPhoneNumberFormat": "A telefonszám nem megfelelő formátumú",
+      "emptySubcategoryField": "Az alkategória mezőt kötelező kitölteni!",
+      "emptyURLField": "Az URL mezőt kötelező kitölteni!",
+      "loginBadCredentials": "Hibás felhsználónév vagy jelszó",
+      "unAvailableServer": "Valami hiba történt, kérlek próbáld újra később",
+      "registrationBadCredentials": "Ez az e-mail cím már regisztrálva van",
+      "resetPassWordBadCredentials": "Ez az email cím nincs még regisztrálva"
+    },
+    "userFeedback": {
+      "successfulResetPasswordRequest": "Emailben kapott linken keresztül fogod tudni beállítani az új jelszót",
+      "successfulPasswordChange": "A jelszód sikeresen megváltozott",
+      "successfulRegistration": "Kérlek erősítsd meg az email címed az emilben kapott linken keresztül"
+    },
+    "buttonText": {
+      "cancel": "Mégse",
+      "edit": "Szerkesztés",
+      "delete": "Törlés",
+      "view": "Megtekintés",
+      "addNew": "Új hozzáadása"
+    },
+    "modal": {
+      "deleteMessage": "Biztosan törölni szeretné ezt a POI-t?",
+      "defaultDropdownText": "Kérlek válassz"
+    },
+    "themes": {
+      "light": "Világos",
+      "dark": "Sötét"
+    },
+    "pagination": {
+      "next": "Következő",
+      "prev": "Előző"
+    }
+  }
+}

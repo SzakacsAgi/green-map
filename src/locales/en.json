@@ -1,0 +1,124 @@
+{
+  "translation": {
+    "menuPoints": {
+      "mobile": {
+        "home": "Home",
+        "administration": "Admin",
+        "map": "Map",
+        "profile": "Profile"
+      },
+      "desktop": {
+        "dashboard": "Dashboard",
+        "administration": "Administration",
+        "map": "Map",
+        "logout": "Logout",
+        "profile": "Profile"
+      }
+    },
+    "administration": {
+      "searchFor": "Search for...",
+      "noSearchResult": "No results found",
+      "noData": "No data available"
+    },
+    "dashboard": {
+      "pois": "Poi's"
+    },
+    "pageNotFound": {
+      "notFound": "Page not found",
+      "backText": "Back to the site"
+    },
+    "login": {
+      "welcomeText": "Welcome back!",
+      "loginAction": "Sign in",
+      "forgotPassword": "Forgot password?",
+      "navigateToRegistration": "Don't have an account?"
+    },
+    "registration": {
+      "registrationText": "Crate your account",
+      "registrationAction": "Sign Up",
+      "navigateToLogin": "Already have an account?",
+      "minCharacter": "8 characters minimum",
+      "lowerCaseRule": "One lowercase character",
+      "upperCaseRule": "One uppercase character",
+      "specialCharacterRule": "One special character",
+      "numberRule": "One number"
+    },
+    "profile": {
+      "settings": "Settings",
+      "language": "Language",
+      "theme": "Theme",
+      "hun": "Hungarian",
+      "eng": "English",
+      "name": "Name"
+    },
+    "forgotPassword": {
+      "requestEmailAddress": "Enter your email address",
+      "requestNewPassword": "Enter your password",
+      "returnToLogin": "Return to login",
+      "reset": "Reset"
+    },
+    "inputLabels": {
+      "firstName": "Firstname",
+      "lastName": "Lastname",
+      "email": "E-mail",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "category": "Category",
+      "longitude": "Longitude",
+      "latitude": "Latitude",
+      "address": "Address",
+      "description": "Description",
+      "name": "Name",
+      "openingHours": "Opening hours",
+      "phoneNumber": "Phone number",
+      "subcategory": "Subcategory",
+      "url": "URL"
+    },
+    "errors": {
+      "emptyEmailField": "The email field is required!",
+      "invalidEmailFormat": "Invalid email address. It must contain exactly one '@' symbol and at least one '.'",
+      "emptyPasswordField": "The password field is required!",
+      "emptyFirstNameField": "The first name field is required!",
+      "emptyLastNameField": "The last name field is required!",
+      "passwordMissMatch": "Passwords are not the same",
+      "emptyAddressField": "The address field is required!",
+      "emptyCategoryField": "The category field is required!",
+      "emptyDescriptionField": "The description field is required!",
+      "emptyLatitudeField": "The latitude field is required!",
+      "invalidLatitude": "The latitude can be only number",
+      "emptyLongitudeField": "The longitude field is required!",
+      "invalidLongitude": "The longitude can be only number",
+      "emptyPoiNameField": "The name field is required!",
+      "emptyOpeningTimeField": "The start of opening hours is mandatory!",
+      "emptyClosingTimeField": "The end of opening hours is mandatory!",
+      "emptyPhoneNumberField": "The phone number field is required!",
+      "invalidPhoneNumberFormat": "Not proper phone number format",
+      "emptySubcategoryField": "The subcategory field is required!",
+      "emptyURLField": "The URL field is required!",
+      "loginBadCredentials": "Incorrect username or password",
+      "unavailableServer": "Something went wrong, please try again later",
+      "registrationBadCredentials": "This email address has already been registered",
+      "resetPassWordBadCredentials": "The email address is not registered yet"
+    },
+    "userFeedback": {
+      "successfulResetPasswordRequest": "You will be able to set the new password via the link you received by email",
+      "successfulPasswordChange": "The password has been successfully changed",
+      "successfulRegistration": "Please confirm your email address via the link in the email"
+    },
+    "buttonText": {
+      "cancel": "Cancel",
+      "edit": "Edit",
+      "delete": "Delete",
+      "view": "View",
+      "addNew": "Add new"
+    },
+    "modal": {
+      "deleteMessage": "Are you sure you want to delete this POI?",
+      "defaultDropdownText": "Please select"
+    },
+    "pagination": {
+      "next": "Next",
+      "prev": "Previous"
+    }
+  }
+}
